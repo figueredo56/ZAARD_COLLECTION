@@ -1,0 +1,10 @@
+{
+  "name": "ZAARD PANGA #0",
+  "description": "Estatus Inalcanzable. El activo supremo de ZAARD INNOVATION, superior al Oro. Poder y escasez absoluta en la Blockchain.",
+  "image": "ipfs://bafybeicxshkikw3p63ginaoszcnodr2pech2zspggtt7a5q3voqufahos4",
+  "attributes": [
+    { "trait_type": "Rango", "value": "Supremo" },
+    { "trait_type": "Material", "value": "Panga" },
+    { "trait_type": "Rareza", "value": "Inalcanzable" }
+  ]
+}
