@@ -1,0 +1,10 @@
+{
+  "name": "ZAARD ORO #2",
+  "description": "Nivel Legendario. Un activo de máxima distinción en la colección ZAARD INNOVATION. Representa la excelencia y el valor 100% real en la red.",
+  "image": "ipfs://bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm",
+  "attributes": [
+    { "trait_type": "Rango", "value": "Legendario" },
+    { "trait_type": "Material", "value": "Oro" },
+    { "trait_type": "Rareza", "value": "100%" }
+  ]
+}
