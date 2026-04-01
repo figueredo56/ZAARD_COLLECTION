@@ -15,14 +15,17 @@
   <img src="https://ipfs.io/ipfs/bafybeihehm24qpw57c23mjjomwwka4hngagf34zmkwvfedskn6ze7vf7e4" width="30%" />
 </p>
 
+<p align="center">
+  <img src="https://ipfs.io/ipfs/bafybeiaaz2ebmyfezamhs3x7jqz5yujnhbru4v6cufyurjokddsb6bjxbu" width="40%" />
+</p>
+
 ---
 
 # 🦅 ZAARD INNOVATION
 ### ZAARD_COLLECTION
 
-> **Registro de Activos Digitales (IPFS):**
-> * `bafybeihg4evet...zn45a` | `bafybeift764...eaapy` | `bafybeibkz6j...yyxtm`
-> * `bafkreicbudp...tpghm` | `bafybeidtruv...2x45i` | `bafybeihehm2...vf7e4`
+> **Último Activo Añadido (IPFS):**
+> `bafybeiaaz2ebmyfezamhs3x7jqz5yujnhbru4v6cufyurjokddsb6bjxbu`
 
 ---
 
