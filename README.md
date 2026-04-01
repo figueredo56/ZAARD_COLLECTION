@@ -42,3 +42,9 @@
 
 ---
 **Contrato Oficial:** `0x8EE0c7702632A4031b9461f452DeCc9D72F1aecb`
+# 🌌 ZAARD INNOVATION: Rango PANGA
+
+![ZAARD PANGA](https://ipfs.io/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe)
+
+### ✨ Sobre este NFT
+Este es el diseño oficial del rango **PANGA**, la deidad suprema de la colección **ZAARD Innovation**. Representa la evolución tecnológica y el poder del fénix renacido.
