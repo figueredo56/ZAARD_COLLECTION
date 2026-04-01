@@ -1,0 +1,10 @@
+{
+  "name": "ZAARD BRONCE #3",
+  "description": "Nivel Raro. Un pilar fundamental de la colección ZAARD INNOVATION. Representa la solidez y la fuerza de la comunidad con una rareza del 33%.",
+  "image": "ipfs://bafkreicbudpk6hm3wbd5eskv5oar4t7dg56oujt37joko2sdwqobvtpghm",
+  "attributes": [
+    { "trait_type": "Rango", "value": "Raro" },
+    { "trait_type": "Material", "value": "Bronce" },
+    { "trait_type": "Rareza", "value": "33%" }
+  ]
+}
