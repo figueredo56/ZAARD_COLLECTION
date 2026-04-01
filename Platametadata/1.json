@@ -1,0 +1,10 @@
+{
+  "name": "ZAARD PLATA #1",
+  "description": "Nivel Muy Raro. Un activo de alta distinción en la colección ZAARD INNOVATION. Representa equilibrio y prestigio con una rareza del 50%.",
+  "image": "ipfs://bafybeihg4evetf2c5fqeozxttct7mone4jaequysqrxndlx4wqmf2zn45a",
+  "attributes": [
+    { "trait_type": "Rango", "value": "Muy Raro" },
+    { "trait_type": "Material", "value": "Plata" },
+    { "trait_type": "Rareza", "value": "50%" }
+  ]
+}
