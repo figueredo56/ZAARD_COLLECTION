@@ -3,14 +3,26 @@
   <img src="https://ipfs.io/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="48%" />
 </p>
 
-> **Identificadores de Activos (IPFS):**
-> 1. `bafybeiatlherqzxmlgfrskqfzwp7hrzagkyj55ig3sbzxi7kadowxbclnq`
-> 2. `bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm`
+<p align="center">
+  <img src="https://ipfs.io/ipfs/bafybeihg4evetf2c5fqeozxttct7mone4jaequysqrxndlx4wqmf2zn45a" width="30%" />
+  <img src="https://ipfs.io/ipfs/bafybeift764exak3gtcylewcd5mufkfaxabusywobwg2z5mcfkp7qeaapy" width="30%" />
+  <img src="https://ipfs.io/ipfs/bafybeibkz6jikut6rsmj2grzuwlbm42g52ahg7o2kfiwrjvlo4u6byyxtm" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://ipfs.io/ipfs/bafkreicbudpk6hm3wbd5eskv5oar4t7dg56oujt37joko2sdwqobvtpghm" width="30%" />
+  <img src="https://ipfs.io/ipfs/bafybeidtruvvmesv453nctol23nrn2v7sqt4s75vdydzy4doxrqs32x45i" width="30%" />
+  <img src="https://ipfs.io/ipfs/bafybeihehm24qpw57c23mjjomwwka4hngagf34zmkwvfedskn6ze7vf7e4" width="30%" />
+</p>
+
+---
 
 # 🦅 ZAARD INNOVATION
 ### ZAARD_COLLECTION
 
-Colección oficial de NFTs **ZAARD INNOVATION**: Inteligencia Artificial y Escasez Garantizada en la Blockchain.
+> **Registro de Activos Digitales (IPFS):**
+> * `bafybeihg4evet...zn45a` | `bafybeift764...eaapy` | `bafybeibkz6j...yyxtm`
+> * `bafkreicbudp...tpghm` | `bafybeidtruv...2x45i` | `bafybeihehm2...vf7e4`
 
 ---
 
@@ -26,4 +38,4 @@ Colección oficial de NFTs **ZAARD INNOVATION**: Inteligencia Artificial y Escas
 | **ESPECIAL** | 🟢 **ESMERALDA** | 4 | 25% |
 
 ---
-**Contrato:** `0x8EE0c7702632A4031b9461f452DeCc9D72F1aecb`
+**Contrato Oficial:** `0x8EE0c7702632A4031b9461f452DeCc9D72F1aecb`
