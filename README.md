@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://ipfs.io/ipfs/bafybeicxshkikw3p63ginaoszcnodr2pech2zspggtt7a5q3voqufahos4" width="48%" />
   <img src="https://ipfs.io/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="48%" />
 </p>
 
