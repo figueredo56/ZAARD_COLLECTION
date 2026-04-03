@@ -97,3 +97,5 @@ No es solo una evolución tecnológica; es la fusión perfecta entre arte digita
 
 El Fénix ha renacido. La innovación tiene un nuevo estándar.
 🔥 ZAARD PANGA 🔥
+
+ZAARD INNOVATION 2026 todos los derechos reservados.
