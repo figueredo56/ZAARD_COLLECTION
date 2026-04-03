@@ -2,6 +2,20 @@
   <img src="https://ipfs.io/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="48%" />
 </p>
 
+#Estamos emocionados de anunciar un hito histórico para el ecosistema ZAARD INNOVATION. Hemos completado oficialmente el registro de nuestra identidad visual en BscScan. ¡El Fénix ya es oficial! 🦅🔥
+
+No somos solo un token; somos una jerarquía de valor diseñada para recompensar la visión y la lealtad. Desde los cimientos de nuestra economía hasta la deidad absoluta de la red, ZAARD redefine lo que significa poseer un activo digital en 2026.
+
+💎 Conoce nuestra Jerarquía NFT:
+
+Pilares: Bronce, Plata y Oro.
+
+Gemas Elementales: Esmeralda, Rubí y Zafiro.
+
+La Deidad Suprema: ZAARD PANGA. El inalcanzable, la cima de la pirámide, el activo que todo visionario desea.
+
+✅ Contrato Verificado: 0xd9e66399a7017c6fb5b6236d2bb ✅
+
 <p align="center">
   <img src="https://ipfs.io/ipfs/bafybeihg4evetf2c5fqeozxttct7mone4jaequysqrxndlx4wqmf2zn45a" width="30%" />
   <img src="https://ipfs.io/ipfs/bafybeift764exak3gtcylewcd5mufkfaxabusywobwg2z5mcfkp7qeaapy" width="30%" />
