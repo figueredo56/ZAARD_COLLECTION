@@ -18,8 +18,11 @@ La Deidad Suprema: ZAARD PANGA. El inalcanzable, la cima de la pirámide, el act
 
 <p align="center">
   <img src="https://ipfs.io/ipfs/bafybeihg4evetf2c5fqeozxttct7mone4jaequysqrxndlx4wqmf2zn45a" width="30%" />
+  🥇 ZAARD ORO 
   <img src="https://ipfs.io/ipfs/bafybeift764exak3gtcylewcd5mufkfaxabusywobwg2z5mcfkp7qeaapy" width="30%" />
+  🥈 ZAARD PLATA
   <img src="https://ipfs.io/ipfs/bafybeibkz6jikut6rsmj2grzuwlbm42g52ahg7o2kfiwrjvlo4u6byyxtm" width="30%" />
+  🥉 ZAARD BRONCE
 </p>
 
 <p align="center">
