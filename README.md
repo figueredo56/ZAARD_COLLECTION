@@ -98,4 +98,18 @@ No es solo una evolución tecnológica; es la fusión perfecta entre arte digita
 El Fénix ha renacido. La innovación tiene un nuevo estándar.
 🔥 ZAARD PANGA 🔥
 
+
+## 🌐 Our Official Digital Presence
+
+Stay connected with the true source of ZAARD innovation.
+
+* **🏠 Official Website:** [zaard.carrd.co](https://zaard.carrd.co)
+* **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+* **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+
+---
+
+> **⚠ CAUTION: Disclaimer ⚠**
+> This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
+
 ZAARD INNOVATION 2026 todos los derechos reservados.
