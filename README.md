@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://ipfs.io/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="48%" />
 </p>
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
 
 #Estamos emocionados de anunciar un hito histórico para el ecosistema ZAARD INNOVATION. Hemos completado oficialmente el registro de nuestra identidad visual en BscScan. ¡El Fénix ya es oficial! 🦅🔥
 
