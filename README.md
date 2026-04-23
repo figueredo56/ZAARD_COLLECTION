@@ -106,7 +106,7 @@ El Fénix ha renacido. La innovación tiene un nuevo estándar.
 
 Stay connected with the true source of ZAARD innovation.
 
-* **🏠 Official Website:** [zaard.carrd.co](https://zaard.carrd.co)
+* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
 * **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 
